@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szorzotabla", "Szorzotabla\Szorzotabla.csproj", "{A70FB04A-CF6E-4BFA-A8EE-6FF3E94A80F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "fibonacci\fibonacci.csproj", "{F0985281-95FF-4703-9CA1-C3D4CD950E7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal", "Pascal\Pascal.csproj", "{BDDCC305-AC28-4409-BF21-CB927E88CDBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A70FB04A-CF6E-4BFA-A8EE-6FF3E94A80F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70FB04A-CF6E-4BFA-A8EE-6FF3E94A80F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70FB04A-CF6E-4BFA-A8EE-6FF3E94A80F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70FB04A-CF6E-4BFA-A8EE-6FF3E94A80F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0985281-95FF-4703-9CA1-C3D4CD950E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0985281-95FF-4703-9CA1-C3D4CD950E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0985281-95FF-4703-9CA1-C3D4CD950E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0985281-95FF-4703-9CA1-C3D4CD950E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDCC305-AC28-4409-BF21-CB927E88CDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDCC305-AC28-4409-BF21-CB927E88CDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDCC305-AC28-4409-BF21-CB927E88CDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDCC305-AC28-4409-BF21-CB927E88CDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B80FEC09-A329-4564-A090-0FD5AF2E251E}
+	EndGlobalSection
+EndGlobal
