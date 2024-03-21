@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal", "Pascal\Pascal.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "villogogomb", "villogogomb\villogogomb.csproj", "{544BDCB0-5876-43FA-854C-FF5B2CDFF238}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hajós", "Hajós\Hajós.csproj", "{9F2B33E1-D94B-4BB5-90BD-8A01521ACF9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hajós", "Hajós\Hajós.csproj", "{9F2B33E1-D94B-4BB5-90BD-8A01521ACF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "példa", "példa\példa.csproj", "{BB0D26EB-7308-4F6E-AE59-4758AAB32F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kigyos_jatek", "Kigyos_jatek\Kigyos_jatek.csproj", "{3D2AD251-ECA0-43A8-B9BE-A5EA6476038B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{9F2B33E1-D94B-4BB5-90BD-8A01521ACF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F2B33E1-D94B-4BB5-90BD-8A01521ACF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F2B33E1-D94B-4BB5-90BD-8A01521ACF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0D26EB-7308-4F6E-AE59-4758AAB32F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0D26EB-7308-4F6E-AE59-4758AAB32F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0D26EB-7308-4F6E-AE59-4758AAB32F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0D26EB-7308-4F6E-AE59-4758AAB32F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2AD251-ECA0-43A8-B9BE-A5EA6476038B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2AD251-ECA0-43A8-B9BE-A5EA6476038B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2AD251-ECA0-43A8-B9BE-A5EA6476038B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2AD251-ECA0-43A8-B9BE-A5EA6476038B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
